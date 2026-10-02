@@ -5,7 +5,7 @@ function Navbar() {
     <nav
       style={{
         padding: '10px',
-        backgroundColor: '#1387ca',
+        backgroundColor: '#4275e2',
         color: 'white'
       }}
     >

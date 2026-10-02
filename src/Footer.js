@@ -10,7 +10,7 @@ function Footer() {
         textAlign: 'center'
       }}
     >
-      ©2026 Niezelle Loreto. All Rights Reserved.
+      ©2026 Nz Loreto. All Rights Reserved.
     </footer>
   );
 }

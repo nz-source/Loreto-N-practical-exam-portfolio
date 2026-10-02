@@ -8,7 +8,7 @@ function Hero() {
         textAlign: 'center'
       }}
     >
-      <h1>Hello! I am Niezelle Loreto</h1>
+      <h1>Hello! I am Nz Loreto</h1>
       <p>Welcome to my exam portfolio.</p>
     </section>
   );
