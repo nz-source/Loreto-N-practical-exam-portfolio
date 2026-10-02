@@ -1,0 +1,15 @@
+1. What is backend development?
+    - It is part of a web application where it is work behind. It support business logic,
+manage the data that sends to the front end.
+
+2. Give 2 examples of backend frameworks.
+Node.js - An open source javascript runtime where it used to both backend and frontend.
+Express.js - It will support the middleware in processing request and response.
+
+3. What is an API?
+    - Application Programming Interface
+    - It is a set of rules that allows different software application to 
+    communicate with each other.
+    - Example: The client of a shop send and order, the API recieved the request, then the server process the request'
+    the API return the response to the client.
+    -In short API is an middleware used to communicate both parties.
